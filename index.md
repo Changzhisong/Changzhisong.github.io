@@ -1,20 +1,11 @@
 ---
 layout: post
-title: 天意人间舫
+title: zhisong
 ---
 
 ## **[晚晴幽草轩](https://www.jeffjade.com)**,**[天意人间舫](nicejade.github.io)**
 
-<style type="text/css">
-.index-poem{
-    display: -webkit-box; display: -moz-box; display: -webkit-flex; display: flex;
-    -webkit-box-align: center;-moz-box-align: center;
-    -webkit-align-items: center; align-items: center; -webkit-box-pack: center;
-    -webkit-justify-content: center; justify-content: center;
-    font-size: 1.2em;
-    color: #F2F2F2;
-}
-</style>
+
 
 <pre>
 <div class="index-poem">

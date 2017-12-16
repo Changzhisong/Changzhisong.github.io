@@ -8,32 +8,32 @@ kramdown:
 
 # 作者信息
 author:
-  name: 晚晴幽草
-  email: jeffjade@163.com
-  link: https://www.jeffjade.com
-  weibo: https://weibo.com/3235949794
-  github: https://github.com/nicejade
+  name: zhisong
+  email: 1060201919@qq.com
+  link: https://changzhisong.github.io/
+  weibo: https://weibo.com/5017438529
+  github: https://github.com/changzhisong
 
 # 站点信息
-title: 天意人间舫
+title: zhisong
 description: 个人博客(Jekyll);整理、记载关于工具/资源/生活/技术/读书/影音等经验和思考;
-url: https://blog.lovejade.cn
+url: https://changzhisong.github.io/
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: /assets/images/nicejade-icon.jpg
+avatar: /assets/images/czs-icon.jpg
 # favicon: https://www.jeffjade.com/img/xuan.ico
 
 # google analytics 设置
 ga:
   id: UA-86109050-1
-  url: nicejade.github.io
+  url: changzhisong.github.io
 
 # disqus 设置
 #disqus:
-  #shortname: yunjeffblog
+  #shortname: zhisongblog
 
-#rake configuration on 2016-03-01
+#rake configuration on 2017-12-16
 post:
   template: _post.txt
   extension: md
@@ -47,4 +47,4 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/Git/nicejade.github.com/
+  destination: ~/Git/changzhisong.github.com/
