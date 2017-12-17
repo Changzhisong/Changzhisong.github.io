@@ -3,7 +3,7 @@ layout: post
 title: zhisong
 ---
 
-## **[晚晴幽草轩]**
+## **[song]**
 
 
 
@@ -15,7 +15,7 @@ title: zhisong
 
 对于此博客，................
 
-<img src="//blog.lovejade.cn/assets/images/jeffjade-nicejade.jpg" alt="晚晴幽草轩 天意人间舫">
+<img src="http" alt="add">
 
 ## 博客平台
 

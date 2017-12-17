@@ -65,8 +65,8 @@ function sendNotify(title, options, event) {
     return;
   }
 
-  var notificationPromise = self.registration.showNotification(title || '轩帅', Object.assign({
-    body: '云在青天水在瓶',
+  var notificationPromise = self.registration.showNotification(title || 'song', Object.assign({
+    body: '---------',
     icon: 'https://blog.lovejade.cn/assets/favicons/mstile-144x144.png',
     tag: 'push'
   }, options));
@@ -80,7 +80,7 @@ function sendNotify(title, options, event) {
 
 function onClickNotify(event) {
   event.notification.close();
-  var url = "https://blog.lovejade.cn/";
+  var url = "https://changzhisong.github.io";
 
   event.waitUntil(
     self.clients.matchAll({
