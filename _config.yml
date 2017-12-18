@@ -21,8 +21,8 @@ url: https://changzhisong.github.io/
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: /assets/images/czs-icon.jpg
-# favicon: https://www.jeffjade.com/img/xuan.ico
+avatar: https://raw.githubusercontent.com/Changzhisong/Changzhisong.github.io/master/assets/images/czs-icon.jpg
+# favicon: https://raw.githubusercontent.com/Changzhisong/Changzhisong.github.io/master/assets/images/czs-icon.jpg
 
 # google analytics 设置
 ga:
